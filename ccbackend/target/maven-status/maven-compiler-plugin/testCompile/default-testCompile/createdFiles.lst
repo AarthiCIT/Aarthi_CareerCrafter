@@ -1,0 +1,4 @@
+com\careercrafter\service\ResumeServiceImplTest.class
+com\careercrafter\service\UserServiceImplTest.class
+com\careercrafter\service\JobListingServiceImplTest.class
+com\careercrafter\service\JobApplicationServiceImplTest.class
