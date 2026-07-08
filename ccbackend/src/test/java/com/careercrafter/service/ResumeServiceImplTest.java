@@ -1,12 +1,12 @@
 package com.careercrafter.service;
 
-import com.careercrafter.dto.ResumeDTO;
-import com.careercrafter.entity.Resume;
-import com.careercrafter.entity.User;
-import com.careercrafter.exception.ResourceNotFoundException;
-import com.careercrafter.repository.ResumeRepository;
-import com.careercrafter.repository.UserRepository;
-import com.careercrafter.service.impl.ResumeServiceImpl;
+import com.hexaware.careercrafter.dto.ResumeDTO;
+import com.hexaware.careercrafter.entity.Resume;
+import com.hexaware.careercrafter.entity.User;
+import com.hexaware.careercrafter.exception.ResourceNotFoundException;
+import com.hexaware.careercrafter.repository.ResumeRepository;
+import com.hexaware.careercrafter.repository.UserRepository;
+import com.hexaware.careercrafter.service.impl.ResumeServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

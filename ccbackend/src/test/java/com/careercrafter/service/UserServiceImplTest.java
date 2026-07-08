@@ -1,15 +1,15 @@
 package com.careercrafter.service;
 
-import com.careercrafter.dto.UserLoginDTO;
-import com.careercrafter.dto.UserRegisterDTO;
-import com.careercrafter.dto.UserResponseDTO;
-import com.careercrafter.entity.User;
-import com.careercrafter.enums.Role;
-import com.careercrafter.exception.DuplicateResourceException;
-import com.careercrafter.exception.ResourceNotFoundException;
-import com.careercrafter.repository.UserRepository;
-import com.careercrafter.security.JwtUtil;
-import com.careercrafter.service.impl.UserServiceImpl;
+import com.hexaware.careercrafter.dto.UserLoginDTO;
+import com.hexaware.careercrafter.dto.UserRegisterDTO;
+import com.hexaware.careercrafter.dto.UserResponseDTO;
+import com.hexaware.careercrafter.entity.User;
+import com.hexaware.careercrafter.enums.Role;
+import com.hexaware.careercrafter.exception.DuplicateResourceException;
+import com.hexaware.careercrafter.exception.ResourceNotFoundException;
+import com.hexaware.careercrafter.repository.UserRepository;
+import com.hexaware.careercrafter.security.JwtUtil;
+import com.hexaware.careercrafter.service.impl.UserServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

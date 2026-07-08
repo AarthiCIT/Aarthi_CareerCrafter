@@ -310,7 +310,7 @@ img { max-width: 100%; display: block; }
    Home Page
    ============================================= */
 .hero {
-  background: linear-gradient(135deg, #1e3a8a 0%, #1d4ed8 50%, #2563eb 100%);
+  background: linear-gradient(135deg, #1e3a8a 0%, #1d4ed8 50%, #2f60cb 100%);
   color: #fff;
   padding: var(--space-24) 0;
   position: relative;
